@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'githubchart'
+gem 'githubchart', '>= 4.0.0'
